@@ -3,9 +3,7 @@
 
 **`Desenvolvedor de Sistemas 💻`**
 
-```bash
 Me chamo Matheus Lima e sou entusiasta de tecnologia. Estou sempre buscando aprender algo novo, seja sobre programação, automação ou qualquer ferramenta que possa facilitar o dia a dia. Gosto de criar projetos, testar ideias e encontrar soluções para problemas reais, sempre com a curiosidade de quem acredita que a tecnologia pode abrir portas para infinitas possibilidades.
-```
 
 ## 🛠️ Linguagens e Tecnologias
 
