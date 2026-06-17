@@ -39,9 +39,9 @@ Me chamo Matheus Lima e sou entusiasta de tecnologia. Estou sempre buscando apre
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=larissakich&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=matheus1910-tam&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&layout=compact&custom_title=Tecnologias&langs_count9&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus1910-tam&layout=compact&custom_title=Tecnologias&langs_count9&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -78,9 +78,3 @@ while True:
 ```
 
 <div align="center">
-
-### 🚀 Transformando processos em resultados
-
-</div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
